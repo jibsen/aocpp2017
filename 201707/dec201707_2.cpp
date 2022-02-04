@@ -107,6 +107,4 @@ int main()
 	auto adj = read_list();
 
 	adjust_tower_weight(adj, "rqwgj");
-
-	return 0;
 }

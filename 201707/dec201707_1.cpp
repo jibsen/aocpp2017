@@ -64,6 +64,4 @@ int main()
 	if (root != adj.end()) {
 		std::cout << root->first << '\n';
 	}
-
-	return 0;
 }
